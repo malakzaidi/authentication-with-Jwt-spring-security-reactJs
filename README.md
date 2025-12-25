@@ -1,14 +1,14 @@
-# 🔐 Authentication with JWT, Spring Security & ReactJS
+#  Authentication with JWT, Spring Security & ReactJS
 
 > A comprehensive full-stack authentication system demonstrating secure user authentication using JSON Web Tokens (JWT), Spring Boot backend, and React frontend.
 
-## 📹 Demo Video
+##  Demo Video
 
 https://github.com/user-attachments/assets/d278716a-60a8-46c6-8162-4a7f52f2796c
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -37,22 +37,22 @@ JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and s
 
 ---
 
-## ✨ Features
+##  Features
 
-- ✅ **User Registration** - New users can create an account with email validation
-- ✅ **User Login** - Secure authentication with JWT token generation
-- ✅ **JWT Token Management** - Automatic token generation and validation
-- ✅ **Protected Routes** - Frontend route protection for authenticated users only
-- ✅ **Secure Password Storage** - Passwords encrypted using BCrypt
-- ✅ **Token Expiration** - Automatic token expiration and refresh mechanism
-- ✅ **Role-Based Access Control** - Different access levels for different user roles
-- ✅ **CORS Configuration** - Properly configured Cross-Origin Resource Sharing
-- ✅ **HTTP-Only Cookies** - Secure token storage (optional implementation)
-- ✅ **Logout Functionality** - Secure user logout with token invalidation
+- **User Registration** - New users can create an account with email validation
+- **User Login** - Secure authentication with JWT token generation
+- **JWT Token Management** - Automatic token generation and validation
+- **Protected Routes** - Frontend route protection for authenticated users only
+- **Secure Password Storage** - Passwords encrypted using BCrypt
+- **Token Expiration** - Automatic token expiration and refresh mechanism
+- **Role-Based Access Control** - Different access levels for different user roles
+- **CORS Configuration** - Properly configured Cross-Origin Resource Sharing
+- **HTTP-Only Cookies** - Secure token storage (optional implementation)
+- **Logout Functionality** - Secure user logout with token invalidation
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 The application follows a client-server architecture:
 
@@ -91,7 +91,7 @@ The application follows a client-server architecture:
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 ### Backend
 - **Java 11+** - Programming language
@@ -113,7 +113,7 @@ The application follows a client-server architecture:
 
 ---
 
-## 📦 Prerequisites
+##  Prerequisites
 
 Before running this application, make sure you have the following installed:
 
@@ -125,7 +125,7 @@ Before running this application, make sure you have the following installed:
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Clone the Repository
 
@@ -161,7 +161,7 @@ yarn install
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 ### Backend Configuration
 
@@ -294,7 +294,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 authentication-with-Jwt-spring-security-reactJs/
@@ -335,7 +335,7 @@ authentication-with-Jwt-spring-security-reactJs/
 
 ---
 
-## 🔄 Authentication Flow
+##  Authentication Flow
 
 ### Registration Flow
 
@@ -373,7 +373,7 @@ authentication-with-Jwt-spring-security-reactJs/
 
 ---
 
-## 🔒 Security
+## Security
 
 ### Security Features Implemented
 
@@ -397,7 +397,7 @@ authentication-with-Jwt-spring-security-reactJs/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -409,7 +409,7 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -424,7 +424,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Spring Boot Documentation
 - React.js Documentation
@@ -434,7 +434,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
+##  Support
 
 If you have any questions or issues, please:
 - Open an issue on GitHub
@@ -442,4 +442,4 @@ If you have any questions or issues, please:
 
 ---
 
-**⭐ If you find this project helpful, please give it a star!**
+** If you find this project helpful, please give it a star!**
